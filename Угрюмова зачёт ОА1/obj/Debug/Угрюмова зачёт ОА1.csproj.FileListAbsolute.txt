@@ -1,0 +1,20 @@
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\bin\Debug\Угрюмова зачёт ОА1.exe.config
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\bin\Debug\Угрюмова зачёт ОА1.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\bin\Debug\Угрюмова зачёт ОА1.pdb
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\obj\Debug\Угрюмова_зачёт_ОА1.Form1.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\obj\Debug\Угрюмова_зачёт_ОА1.Properties.Resources.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.pdb
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.csproj.AssemblyReference.cache
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\obj\Debug\Угрюмова_зачёт_ОА1.Form1.resources
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\obj\Debug\Угрюмова_зачёт_ОА1.Properties.Resources.resources
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.csproj.GenerateResource.cache
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.exe
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\obj\Debug\Угрюмова зачёт ОА1.pdb
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\bin\Debug\Угрюмова зачёт ОА1.exe.config
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\bin\Debug\Угрюмова зачёт ОА1.exe
+C:\Users\305-1\Desktop\Угрюмова зачёт ОА1\bin\Debug\Угрюмова зачёт ОА1.pdb
